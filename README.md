@@ -3,7 +3,7 @@ Sometimes you write down a line of code quite intuitive which costs you a whole 
 
 ### os.path.join
 
-``` lang: py
+``` python
 from os.path import join
 
 print(join('foo', '/bar'))
